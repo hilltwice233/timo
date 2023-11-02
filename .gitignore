@@ -34,6 +34,7 @@ migrate_working_dir/
 
 # Lockfile will be ignored for potential usage of mirrors.
 pubspec.lock
+project.pbxproj
 
 # Symbolication related
 app.*.symbols
