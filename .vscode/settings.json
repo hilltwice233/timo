@@ -8,5 +8,10 @@
   "explorer.fileNesting.patterns": {
     "pubspec.yaml": "pubspec.lock, .metadata",
     "readme.md": "license.txt"
-  }
+  },
+
+  // Default formatter and format on save.
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {"source.organizeImports": true},
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
