@@ -21,5 +21,20 @@
   "[shellscript]": {"editor.defaultFormatter": "foxundermoon.shell-format"},
 
   // Language specified formatter options.
-  "[dart]": {"editor.defaultFormatter": "Dart-Code.dart-code"}
+  "[dart]": {"editor.defaultFormatter": "Dart-Code.dart-code"},
+
+  // Spell checker options.
+  "cSpell.useGitignore": true,
+  "cSpell.ignorePaths": [],
+  "cSpell.enableFiletypes": ["*"],
+  "cSpell.words": [
+    "esbenp",
+    "foxundermoon",
+    "pbxproj",
+    "pubspec",
+    "schyler",
+    "symbolication",
+    "timo",
+    "todos"
+  ]
 }

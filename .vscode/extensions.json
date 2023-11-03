@@ -5,6 +5,7 @@
     "dart-code.dart-code",
     "dart-code.flutter",
     "mads-hartmann.bash-ide-vscode",
-    "foxundermoon.shell-format"
+    "foxundermoon.shell-format",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
